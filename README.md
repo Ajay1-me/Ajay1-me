@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ajay 👋
 
-<!--
-**Ajay1-me/Ajay1-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate from **Sacramento State** with nearly two years of internship experience at **SMUD** and **Pacific Coast Companies Inc.**
 
-Here are some ideas to get you started:
+I build practical solutions across **software engineering, AI, automation, and data**, with a focus on simplifying workflows and making information more accessible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Former **ACM President at Sac State** and **Co-founder of Hornet Hacks**. Currently exploring software engineering and technology opportunities.
+
+## Technical Skills
+
+- **Languages & Frameworks:** Python, Java, SQL, C++, JavaScript, Go, React, HTML/CSS
+- **Backend & Tools:** REST APIs, FastAPI, Docker, GitHub Actions, Git, Linux/UNIX, Postman, Jest, JUnit, SAP BPA, SAP BTP
+- **Cloud & Databases:** AWS, Azure, Databricks, PostgreSQL, MySQL, Firestore
+- **Networking & Security:** TCP/IP, DNS, DHCP, HTTPS/TLS, Active Directory, RBAC, Authentication & Authorization Testing, NIST Fundamentals
+- **AI/ML & Visualization:** scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, RAG, NLP, Matplotlib, Plotly, Power BI
+
+**Certifications & Training:** CompTIA Security+ | AWS Cloud Essentials
+
+## Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/ajaydeep-singh121/)
